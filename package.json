@@ -1,0 +1,20 @@
+{
+  "name": "desafio_01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Renan",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.0",
+    "csv-parse": "^5.3.10",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security"
+  }
+}
